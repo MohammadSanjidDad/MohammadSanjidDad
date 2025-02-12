@@ -2,8 +2,6 @@
 
 Hi, I'm [Your Name] 👨‍💻, a passionate Software & Website Engineer with a focus on creating robust, scalable, and beautiful applications. I specialize in Flutter, Python, Firebase, and more!
 
-![Profile Image](https://avatars.githubusercontent.com/u/164142036?s=400&u=52cc3231dbed238349921976bcf60d20ad5f34b5&v=4)  <!-- Add your GitHub profile image or any other image URL -->
-
 ## 🚀 Skills & Technologies
 
 I am proficient in a variety of programming languages and frameworks. Here's a quick overview of my tech stack:
